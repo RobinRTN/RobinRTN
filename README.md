@@ -42,8 +42,9 @@
 
 ## 🖥️ 42 Projects
 [Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
-<br>
 
+<br>
+<br>
 
 ## 👨‍🚀 My (major) Personal Projects
 [ChuckApp](https://github.com/RobinRTN/ChuckApp) -> 50 active sport coach users - Ruby on Rails - Stimulus.js
