@@ -2,10 +2,9 @@
   <img src="https://github.com/RobinRTN/RobinRTN/blob/main/Convertir%20en%20GIF%20Mar%2015%202024%20(2).gif?raw=true" width="200" alt="Description of GIF" style="border-radius: 50%;">
 </p>
 
-## 👋 Hi there, I'm Robin
-<br>
+## 👋 Hi there
 
-<h3 align="center">A passionate full-stack developer from Paris France</h3>
+<h3 align="center">I'm Robin, a passionate full-stack developer from Paris France</h3>
 
 🔭 I learned coding at **Le Wagon and ecole 42**
 
@@ -35,8 +34,6 @@
 
 ## 🤖 42 Profile
 
-<br>
-
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rrettien?1337Badge=off&UM6P=off" alt="rrettien's 42 stats" /></a>
 </div>
@@ -47,12 +44,9 @@
 
 <br>
 
-<br>
-
 
 ## 💻 My Projects
 
 <br>
 
-<br>
 
