@@ -16,14 +16,22 @@
 
 📫 Reach me out **robinrettien@gmail.com**
 
-📄 Know about my previous experiences [https://www.linkedin.com/in/robin-rettien-b30067115/](https://www.linkedin.com/in/robin-rettien-b30067115/)
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i= c, cpp, bash, html, css js, ts, react, next, ruby, rails, postgres, dockers, postman, linux, vscode)](https://skillicons.dev)
+## 🧑‍💻 Current Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,html,css,js,ts,react,next,ruby,rails,postgres,docker,postman,linux,vscode)](https://skillicons.dev)
+
+<br>
+
 > :desktop_computer:  Languages - C | C++ | Bash | HTML | CSS | TS | Ruby
 
 > :hammer_and_wrench:  Frameworks | React | Next | Ruby on Rails
 
-> :atom:  DevOps & Tools | Visual Studio Code | Postman | Dockers
+> :atom:  DevOps & Tools | Visual Studio Code | Postman | Docker
+
+<br>
+
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rrettien?1337Badge=off&UM6P=off" alt="rrettien's 42 stats" /></a>
