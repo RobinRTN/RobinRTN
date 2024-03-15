@@ -47,7 +47,7 @@
 ## 🖥️ 42 Projects (major) 
 > [Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
 > 
-> [Get_next_line](https://github.com/RobinRTN/Get_next_line/tree/main) -> My very own input reader in C
+> [Get_next_line](https://github.com/RobinRTN/Get_next_line/tree/main) -> My very own file reader in C
 > 
 > [Ft_Printf](https://github.com/RobinRTN/Ft_Printf/tree/main) -> My C standard library function printf
 > 
