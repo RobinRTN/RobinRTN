@@ -43,7 +43,7 @@
 ## 🖥️ (major) 42 Projects
 [Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
 <br>
-[Libft](https://github.com/RobinRTN/Ft_Printf/tree/main) -> My C standard library function printf
+[Ft_Printf](https://github.com/RobinRTN/Ft_Printf/tree/main) -> My C standard library function printf
 <br>
 [Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
 
