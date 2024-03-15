@@ -42,6 +42,7 @@
 
 ## 🖥️ (major) 42 Projects
 [Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
+<br>
 [Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
 
 <br>
