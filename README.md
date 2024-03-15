@@ -12,6 +12,8 @@
 
 > 🌱 I’m currently learning **C, C++ and DevOps** & Teaching web-dev at **Le Wagon**
 
+> 🛰️ I also like to explore other fields such as CyberSecurity and Growth Hacking 
+
 > 👯 I’m looking to collaborate on **Freelance projects**
 
 > 📫 Reach me out **robinrettien@gmail.com**
