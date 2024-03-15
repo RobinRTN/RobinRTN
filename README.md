@@ -46,7 +46,7 @@
 
 
 ## 👨‍🚀 My (major) Projects
-[ChuckApp](https://github.com/RobinRTN/ChuckApp) - >50 active sport coach users - Ruby on Rails - Stimulus.js
+[ChuckApp](https://github.com/RobinRTN/ChuckApp) ->50 active sport coach users - Ruby on Rails - Stimulus.js
 [WIP...]
 <br>
 
