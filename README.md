@@ -44,7 +44,7 @@
 
 <br>
 
-## 🖥️ (major) 42 Projects
+## 🖥️ 42 Projects (major) 
 > [Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
 > 
 > [Get_next_line](https://github.com/RobinRTN/Get_next_line/tree/main) -> My very own input reader in C
@@ -55,7 +55,7 @@
 
 <br>
 
-## 👨‍🚀 (major) Personal Projects
+## 👨‍🚀 Personal Projects (major) 
 > [ChuckApp](https://github.com/RobinRTN/ChuckApp) -> 50 active sport coach users - Ruby on Rails - Stimulus.js
 > 
 > [Perspectiv](https://github.com/RobinRTN/Perspectiv) -> Final Le Wagon Project - connect high school pupils and professionals - Ruby on Rails - Stimulus.js
