@@ -45,7 +45,7 @@
 <br>
 
 
-## 💻 My Projects
+## 💻 My (major) Projects
 
 <br>
 
