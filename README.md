@@ -40,7 +40,7 @@
 
 <br>
 
-## 🖥️ 42 Projects
+## 🖥️ (major) 42 Projects
 [Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
 
 <br>
