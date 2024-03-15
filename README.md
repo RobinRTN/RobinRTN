@@ -9,9 +9,9 @@
 
 💬 Ask me about **React TS, Ruby on Rails API**
 
-- 📫 Reach me out **robinrettien@gmail.com**
+📫 Reach me out **robinrettien@gmail.com**
 
-- 📄 Know about my previous experiences [https://www.linkedin.com/in/robin-rettien-b30067115/](https://www.linkedin.com/in/robin-rettien-b30067115/)
+📄 Know about my previous experiences [https://www.linkedin.com/in/robin-rettien-b30067115/](https://www.linkedin.com/in/robin-rettien-b30067115/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
