@@ -9,11 +9,11 @@
 
 🔭 I learned coding at **Le Wagon and ecole 42**
 
+💬 Ask me about **React TS, Ruby on Rails**
+
 🌱 I’m currently learning **C, C++ and DevOps**
 
 👯 I’m looking to collaborate on **Freelance projects**
-
-💬 Ask me about **React TS, Ruby on Rails API**
 
 📫 Reach me out **robinrettien@gmail.com**
 
