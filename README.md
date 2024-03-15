@@ -10,7 +10,7 @@
 
 > 💬 Ask me about **React TS, Ruby on Rails**
 
-> 🌱 I’m currently learning **C, C++ and DevOps** & Teaching Web Dev at **Le Wagon**
+> 🌱 I’m currently learning **C, C++ and DevOps** & Teaching web-dev at **Le Wagon**
 
 > 👯 I’m looking to collaborate on **Freelance projects**
 
