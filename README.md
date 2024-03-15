@@ -6,15 +6,15 @@
 
 <h3 align="center">I'm Robin, a passionate full-stack developer from Paris France</h3>
 
-🔭 I learned coding at **Le Wagon and ecole 42**
+> 🔭 I learned coding at **Le Wagon and ecole 42**
 
-💬 Ask me about **React TS, Ruby on Rails**
+> 💬 Ask me about **React TS, Ruby on Rails**
 
-🌱 I’m currently learning **C, C++ and DevOps**
+> 🌱 I’m currently learning **C, C++ and DevOps**
 
-👯 I’m looking to collaborate on **Freelance projects**
+> 👯 I’m looking to collaborate on **Freelance projects**
 
-📫 Reach me out **robinrettien@gmail.com**
+> 📫 Reach me out **robinrettien@gmail.com**
 
 <br>
 
