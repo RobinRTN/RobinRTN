@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RobinRTN/RobinRTN/blob/main/Convertir%20en%20GIF%20Mar%2015%202024%20(1).gif?raw=true" width="250" alt="Description of GIF">
+  <img src="https://github.com/RobinRTN/RobinRTN/blob/main/Convertir%20en%20GIF%20Mar%2015%202024%20(1).gif?raw=true" width="400" alt="Description of GIF">
 </p>
 
 <br /><br />
