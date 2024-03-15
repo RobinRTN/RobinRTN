@@ -43,6 +43,8 @@
 ## 🖥️ (major) 42 Projects
 [Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
 <br>
+[Get_next_line](https://github.com/RobinRTN/Get_next_line/tree/main) -> My very own input reader in C
+<br>
 [Ft_Printf](https://github.com/RobinRTN/Ft_Printf/tree/main) -> My C standard library function printf
 <br>
 [Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
