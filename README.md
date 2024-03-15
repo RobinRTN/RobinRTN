@@ -28,9 +28,9 @@
 
 > :desktop_computer:  Languages - C | C++ | Bash | HTML | CSS | TS | Ruby
 
-> :hammer_and_wrench:  Frameworks | React | Next | Ruby on Rails
+> :hammer_and_wrench:  Frameworks - React | Next | Ruby on Rails
 
-> :atom:  DevOps & Tools | Visual Studio Code | Postman | Docker
+> :atom:  DevOps & Tools - Visual Studio Code | Postman | Docker
 
 <br>
 
@@ -57,7 +57,8 @@
 
 ## 👨‍🚀 (major) Personal Projects
 [ChuckApp](https://github.com/RobinRTN/ChuckApp) -> 50 active sport coach users - Ruby on Rails - Stimulus.js
-
+<br>
+[Perspectiv](https://github.com/RobinRTN/Perspectiv) -> Final Le Wagon Project - connect high school pupils and professionals - Ruby on Rails - Stimulus.js
 <br>
 
 ## 🧑‍🍳 Boilerplates
