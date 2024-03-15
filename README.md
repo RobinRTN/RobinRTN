@@ -24,13 +24,13 @@
 
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,html,css,js,ts,react,next,ruby,rails,postgres,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,html,css,tailwind,js,ts,react,next,ruby,rails,postgres,docker,vscode)](https://skillicons.dev)
 
 <br>
 
 > :desktop_computer:  Languages - C | C++ | Bash | HTML | CSS | TS | Ruby
 
-> :hammer_and_wrench:  Frameworks - React | Next | Ruby on Rails
+> :hammer_and_wrench:  Frameworks - React | Next | Tailwind | Ruby on Rails
 
 > :atom:  DevOps & Tools - Visual Studio Code | Postman | Docker
 
