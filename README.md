@@ -46,6 +46,7 @@
 
 
 ## 👨‍🚀 My (major) Projects
+[ChuckApp](https://github.com/RobinRTN/ChuckApp)
 [WIP...]
 <br>
 
