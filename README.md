@@ -43,26 +43,26 @@
 <br>
 
 ## 🖥️ (major) 42 Projects
-[Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
+> [Libft](https://github.com/RobinRTN/Libft/tree/main) -> My very own C functions library
 <br>
-[Get_next_line](https://github.com/RobinRTN/Get_next_line/tree/main) -> My very own input reader in C
+> [Get_next_line](https://github.com/RobinRTN/Get_next_line/tree/main) -> My very own input reader in C
 <br>
-[Ft_Printf](https://github.com/RobinRTN/Ft_Printf/tree/main) -> My C standard library function printf
+> [Ft_Printf](https://github.com/RobinRTN/Ft_Printf/tree/main) -> My C standard library function printf
 <br>
-[Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
+> [Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
 
 
 <br>
 <br>
 
 ## 👨‍🚀 (major) Personal Projects
-[ChuckApp](https://github.com/RobinRTN/ChuckApp) -> 50 active sport coach users - Ruby on Rails - Stimulus.js
+> [ChuckApp](https://github.com/RobinRTN/ChuckApp) -> 50 active sport coach users - Ruby on Rails - Stimulus.js
 <br>
-[Perspectiv](https://github.com/RobinRTN/Perspectiv) -> Final Le Wagon Project - connect high school pupils and professionals - Ruby on Rails - Stimulus.js
+> [Perspectiv](https://github.com/RobinRTN/Perspectiv) -> Final Le Wagon Project - connect high school pupils and professionals - Ruby on Rails - Stimulus.js
 <br>
 
 ## 🧑‍🍳 Boilerplates
-[React/Next + Rails API](https://github.com/RobinRTN/Next-React---RoRAPI-Auth-Boilerplate) -> Ready to use Boilerplate with React - Next Frontend and Ruby on Rails API (JWT) Backend
+> [React/Next + Rails API](https://github.com/RobinRTN/Next-React---RoRAPI-Auth-Boilerplate) -> Ready to use Boilerplate with React - Next Frontend and Ruby on Rails API (JWT) Backend
 
 <br>
 
