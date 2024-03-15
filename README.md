@@ -58,4 +58,9 @@
 
 <br>
 
+## 🧑‍🍳 Boilerplates
+[React/Next + Rails API](https://github.com/RobinRTN/Next-React---RoRAPI-Auth-Boilerplate) -> Ready to use Boilerplate with React - Next Frontend and Ruby on Rails API (JWT) Backend
+
+<br>
+
 
