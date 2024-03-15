@@ -42,6 +42,7 @@
 
 ## 🖥️ 42 Projects
 [WIP...]
+[Minishell](https://github.com/RobinRTN/Minishell/tree/main) -> Our very own bash replica
 <br>
 
 
