@@ -32,16 +32,26 @@
 
 <br>
 
+## 🧑‍💻 42 Profile
+
+<br>
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rrettien?1337Badge=off&UM6P=off" alt="rrettien's 42 stats" /></a>
 </div>
 
-<br /><br />
+<br>
 
-<h4 align="left">42 Projects</h4>
+## 🧑‍💻 42 Projects
 
-<br /><br />
+<br>
 
-<h4 align="left">My Projects</h4>
+<br>
+
+
+## 🧑‍💻 My Projects
+
+<br>
+
+<br>
 
