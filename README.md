@@ -8,7 +8,7 @@
 
 > 🔭 I learned coding at **Le Wagon and ecole 42**
 
-> 💬 Ask me about **React TS, Ruby on Rails**
+> 💬 Ask me about **React TS, Next and Ruby on Rails**
 
 > 🌱 I’m currently learning **C, C++ and DevOps** & Teaching web-dev at **Le Wagon**
 
