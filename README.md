@@ -41,12 +41,12 @@
 <br>
 
 ## 🖥️ 42 Projects
-
+[WIP...]
 <br>
 
 
 ## 👨‍🚀 My (major) Projects
-
+[WIP...]
 <br>
 
 
