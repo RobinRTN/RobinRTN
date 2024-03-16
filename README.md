@@ -4,7 +4,7 @@
 
 ## 👋 Hi there
 
-<h3 align="center">I'm Robin, a passionate full-stack developer from Paris France</h3>
+<h3 align="center">I'm Robin, a passionate software engineer from Paris France</h3>
 
 > 🔭 I learned coding at **Le Wagon and ecole 42**
 
