@@ -16,7 +16,7 @@
 
 > 👨‍💼 **Management consultant** in a previous life
 
-> 👯 I’m looking to collaborate on **Freelance projects**
+> 🤝 I’m looking to collaborate on **Freelance projects**
 
 > 📫 Reach me out **robinrettien@gmail.com**
 
