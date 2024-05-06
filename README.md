@@ -28,7 +28,7 @@
 
 <br>
 
-> :desktop_computer:  Languages - C | C++ | Bash | HTML | CSS | TS | Ruby
+> :desktop_computer:  Languages - TS | C | C++ | Bash | HTML | CSS | Ruby
 
 > :hammer_and_wrench:  Frameworks - React | Next | Tailwind | Ruby on Rails
 
