@@ -22,7 +22,6 @@
 
 <br>
 
-
 ## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,html,css,tailwind,ts,react,next,ruby,rails,postgres,docker,vscode,aws)](https://skillicons.dev)
