@@ -8,7 +8,7 @@
 
 > 🔭 I learned coding at **Le Wagon and ecole 42**
 
-> 💬 I enjoy the tech stack - **React TS, Next and Ruby on Rails (API)**
+> 💬 I enjoy the tech stack - **React TS, Next and Django**
 
 > 🌱 I’m currently learning **C, C++ and DevOps** & Teaching web-dev at **Le Wagon**
 
