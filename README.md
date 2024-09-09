@@ -32,7 +32,7 @@
 
 > :hammer_and_wrench:  Frameworks - React | Next | Tailwind | React Native | Expo | Redux | Ruby on Rails | Django
 
-> :atom:  DevOps & Tools - Visual Studio Code | Postman | Docker
+> :atom:  DevOps & Tools - Visual Studio Code | Postman | Docker 
 
 <br>
 
