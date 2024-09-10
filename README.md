@@ -10,7 +10,7 @@
 
 > 💬 I enjoy the tech stack - **React TS, Next and Django**
 
-> 🌱 I’m currently learning **C, C++ and DevOps** & Teaching web-dev at **Le Wagon** 
+> 🌱 I’m currently learning **C, C++ and DevOps** & Teaching web-dev at **Le Wagon**
 
 > 🛰️ I also like to explore other fields such as **Cyber Security**, **Blockchain** and **Growth Hacking**
 
