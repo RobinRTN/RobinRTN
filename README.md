@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/RobinRTN/RobinRTN/blob/main/Convertir%20en%20GIF%20Mar%2015%202024%20(3).gif?raw=true" alt="Description of GIF" style="border-radius: 10px;">
-</p>
 
 ## 👋 Hi there
 
