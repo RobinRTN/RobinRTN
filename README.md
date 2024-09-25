@@ -22,7 +22,7 @@
 ## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,html,css,tailwind,ts,react,next,ruby,rails,redux,django,postgres,docker,vscode,aws)](https://skillicons.dev)
-
+ 
 <br>
 
 > :desktop_computer:  Languages - TS | C | C++ | Bash | HTML | CSS | Ruby | Python
