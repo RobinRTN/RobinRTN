@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm Robin, a passionate software engineer from Paris France</h3> 
 
-> 🔭 I learned coding at **Le Wagon and ecole 42** 
+> 🔭 I learned coding at **Le Wagon and ecole 42**
 
 > 💬 I enjoy the tech stack - **React TS, Next and Django**
 
