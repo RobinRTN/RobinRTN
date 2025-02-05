@@ -23,7 +23,7 @@
 
 > :desktop_computer:  Languages - TS | C | C++ | Bash | HTML | CSS | Ruby | Python
 
-> :hammer_and_wrench:  Frameworks - React | Next | Tailwind | React Native | Expo | Redux | Ruby on Rails | Flask | FastAPI 
+> :hammer_and_wrench:  Frameworks - React | Next | Tailwind | React Native | Expo | Ruby on Rails | Flask | FastAPI 
 
 > :atom:  DevOps & Tools - Visual Studio Code | Postman | Docker | Docker Swarm
 
